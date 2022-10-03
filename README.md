@@ -1,4 +1,4 @@
-# Backpropagation-through-time and Recurrent Neural Networks 
+# Biases of Training Recurrent Neural Networks via Backpropagation-through-time
 
 Artificial Recurrent Neural Networks (RNNs) are increasingly used in neuroscience research to explain neurobiological phenomena while considering the architectural and computational constraints of biological networks. Such an approach trains networks using machine learning tools and compares it to the network dynamics observed in the brain. RNNs are usually trained using backpropagation-through-time (BPTT), the analog of the standard backpropagation-of-error algorithm. 
 
