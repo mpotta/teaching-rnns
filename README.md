@@ -6,4 +6,4 @@ This fitting procedure returns a solution in terms of weights, from which task-r
 
 We address this fundamental question by exploring the spectral structure of discrete-time RNNs trained via BPTT on temporal tasks trained to recreate the dynamics of a given teacher model. Specifically, we characterize how faithfully BPTT finds the desired solution for linear and nonlinear filters.
 
-This work was done at the Institute of Neuroinformatics, University of Zurich and ETH Zurich under the supervision of [Prof. Dr. Benjamin F. Grewe](https://scholar.google.de/citations?user=ZA-1rh8AAAAJ&hl=en) and the direct supervision of  [Dr. Pau Vilimelis Aceituno](https://scholar.google.com/citations?user=dahpSB8AAAAJ&hl=en). 
+This work was done at the Institute of Neuroinformatics, University of Zurich and ETH Zurich under the supervision of [Prof. Dr. Benjamin F. Grewe](https://scholar.google.de/citations?user=ZA-1rh8AAAAJ&hl=en) and the direct supervision of  [Dr. Pau Vilimelis Aceituno](https://scholar.google.com/citations?user=dahpSB8AAAAJ&hl=en).
